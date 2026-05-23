@@ -28,6 +28,9 @@ Financial Insights is a simple and interactive web application built to make fin
 - **Data Visualization**  
   Uses charts to show loan breakdowns and comparisons visually.
 
+## Live Demo
+https://asivasaipavan.github.io/Financial-Insights-/
+
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
